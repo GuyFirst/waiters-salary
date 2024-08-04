@@ -1,0 +1,8 @@
+﻿  generalFuncs.c
+  main.c
+  waiters.c
+C:\Users\guyfi\source\repos\MySalaryCalculator\MySalaryCalculator\generalFuncs.c(11,36): warning C4020: 'addWaiterToFile': too many actual parameters
+C:\Users\guyfi\source\repos\MySalaryCalculator\MySalaryCalculator\waiters.c(24,2): warning C4033: 'createListNode' must return a value
+  Generating Code...
+C:\Users\guyfi\source\repos\MySalaryCalculator\MySalaryCalculator\waiters.c(25,1): warning C4716: 'createListNode': must return a value
+  MySalaryCalculator.vcxproj -> C:\Users\guyfi\source\repos\MySalaryCalculator\x64\Debug\MySalaryCalculator.exe
